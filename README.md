@@ -5,7 +5,7 @@ Este repositorio contiene el manual de marca oficial de **Visible** y los recurs
 ## Contenido
 
 - **`visible-brand-book.pdf`** — Manual de marca completo: identidad visual, tipografía, paleta de colores, usos correctos e incorrectos del logo, y lineamientos generales de aplicación de la marca.
-- **`design-system.md`** — Design system de Visible en texto: esencia, voz y reglas de forma, color, tipografía, espaciado, componentes y variables CSS. Exportado el 2026-10-23; si hay diferencias, mandan el artifact oficial y el kit de Canva.
+- **`design-system.md`** — Design system de Visible en texto: esencia, voz y reglas de forma, color, tipografía, espaciado, componentes y variables CSS. Versión del 18 oct 2026. Si difiere del PDF (que es de julio), manda este documento.
 - **`logos/`** — Logos oficiales en alta resolución, listos para usar:
   - `visible-logo-morado.png` — Versión principal, en el color morado de marca. Uso recomendado sobre fondos claros.
   - `visible-logo-negro.png` — Versión en negro. Uso recomendado cuando el color de marca no sea aplicable (documentos en blanco y negro, impresiones de bajo costo, restricciones de contraste, etc.).

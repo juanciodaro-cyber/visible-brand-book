@@ -1,8 +1,8 @@
 # Design system de Visible
 
-Versión en texto del design system oficial: https://claude.ai/artifact/747bzw42bLYMYY3H8xPPsp
-Exportado el 2026-10-23. Última modificación del original: 2026-10-18 ("Tono propio de Visible, reglas de forma con #haztevisible y promesa nueva").
-Si hay diferencias, mandan el artifact y el kit oficial de Canva ("Brand - Entregables").
+Reglas de marca para piezas gráficas, redes y web. Versión del 18 de octubre de 2026.
+
+> **Ojo con el manual en PDF.** `visible-brand-book.pdf` es de julio de 2026 y todavía muestra elementos que esta versión retiró: los stickers de manos y megáfono, las piezas "Hazte viral en LinkedIn", signos de exclamación en las piezas y copy en inglés. Ante cualquier diferencia entre el PDF y este documento, manda este documento. Los colores, el patrón de flechas, los conectores y el uso de la & y la V siguen igual en ambos.
 
 ---
 
@@ -24,14 +24,14 @@ La marca se siente **cool, minimalista y sobria**: mucho aire, una idea por piez
 
 ## 2. Contenido y voz
 
-**Tono: fácil de leer, al grano, directo y práctico, experto y sobrio.** Es distinto al de Pedro: nada de reflexiones largas ni historias personales.
+**Tono: fácil de leer, al grano, directo y práctico, experto y sobrio.** Nada de reflexiones largas ni historias personales.
 
 - Lo primero es que el lector entienda sin esfuerzo: palabras simples, una idea por frase, sin rodeos ni introducciones.
 - Cada pieza deja algo aplicable: un paso, una fórmula, un criterio.
 - Autoridad de método y datos, sin exagerar. Explica el porqué.
 - Visible habla como "nosotros" y le habla al lector de tú. Español neutro latinoamericano.
 - En texto, el nombre se escribe **Visible**. El logo va con la "v" minúscula y nunca se escribe a mano: siempre se usa el archivo oficial.
-- Habla de reputación, posicionamiento, confianza y oportunidades. Nunca promete viralidad, leads, likes ni empleo. "Hazte viral en LinkedIn" (kit de 2023) ya no se usa.
+- Habla de reputación, posicionamiento, confianza y oportunidades. Nunca promete viralidad, leads, likes ni empleo.
 - Visible es "un equipo experto al servicio de tu marca personal", no ghostwriters.
 - Botones con verbo: "Conectemos en LinkedIn", "Conoce más", "Agenda una llamada".
 
@@ -46,7 +46,7 @@ La marca se siente **cool, minimalista y sobria**: mucho aire, una idea por piez
 - **Inglés:** solo nombres propios (Visible Live, Wrapped, Top Voice) y términos de LinkedIn de uso común (post, feed, banner). "Titular", no headline; "extracto", no about.
 - Sin clichés ("en el mundo actual", "no es X, es Y", "¿la clave?") ni cierres motivacionales.
 
-### Copy real de la marca
+### Copy de la marca
 
 - "Una buena marca personal abre puertas sin que tengas que tocarlas."
 - "Co-creamos tu marca personal en el mundo digital."
@@ -57,7 +57,7 @@ La marca se siente **cool, minimalista y sobria**: mucho aire, una idea por piez
 
 ## 3. Color
 
-Valores del kit oficial en Canva. Sin degradados. Proporción orientativa por pieza: 70% neutro, 20% índigo, 10% acento.
+Sin degradados. Proporción orientativa por pieza: 70% neutro, 20% índigo, 10% acento.
 
 | Token | HEX | Uso |
 |---|---|---|
@@ -177,14 +177,12 @@ Respaldo de fuentes: Raleway → Avenir Next, Segoe UI, sans-serif. IBM Plex Mon
 - Siempre se usan los archivos oficiales; nunca se redibuja ni se escribe.
 - Aire mínimo alrededor del logo: la altura de la V.
 
-| Archivo | Qué es | Dónde va |
+| Archivo (carpeta `logos/`) | Qué es | Dónde va |
 |---|---|---|
-| logo-indigo.png | Isotipo + palabra en índigo | Sobre blanco, blush, lima y celeste. |
-| logo-blanco.png | El mismo logo en blanco | Sobre índigo y fotos oscuras. |
-| isotipo-lima.png | Círculo lima con la V calada | Sobre índigo. |
-| isotipo-indigo.png | Círculo índigo con la V calada | Sobre fondos claros. |
+| visible-logo-morado.png | Isotipo + palabra en índigo | Sobre blanco, blush, lima y celeste. |
+| visible-logo-negro.png | El mismo logo en negro | Solo cuando el color de marca no aplica: blanco y negro, impresiones de bajo costo. |
 
-El isotipo es la firma pequeña de láminas y el avatar. Los archivos son PNG; para impresión grande hay que pedir los vectores a Pedro.
+El isotipo (círculo con la V calada) es la firma pequeña de láminas y el avatar. Va en índigo sobre fondos claros y en lima sobre índigo. Para fondos oscuros se usa el logo en blanco.
 
 ---
 
@@ -192,22 +190,21 @@ El isotipo es la firma pequeña de láminas y el avatar. Los archivos son PNG; p
 
 - Personas en **blanco y negro**, recortadas, con contorno blanco tipo sticker (6px), sobre la V o el & en índigo, o sobre un fondo de color pleno.
 - Una persona por pieza, mirando o sonriendo hacia el texto. La foto se ancla abajo y puede salirse del borde; la forma queda detrás.
-- Fotos disponibles: pedro-recorte.png (Pedro sin fondo, para piezas) y pedro.jpg (retrato con fondo, para perfiles y documentos).
 
 ---
 
 ## 9. Recursos gráficos
 
-Todos en índigo con fondo transparente, del kit oficial de Canva.
+Todos en índigo con fondo transparente. Son textura, no protagonistas.
 
-- **flechas.png:** patrón de flechas y V. Textura de fondo: índigo sobre lima o celeste, o tono sobre tono (índigo sobre índigo profundo). Uno por pieza.
-- **conectores.png:** líneas con puntos que conectan. Para separar o enlazar ideas, finas y en una tinta.
-- **ampersand.png** y **v-visible.svg:** formas grandes detrás de una foto recortada.
+- **Patrón de flechas y V:** textura de fondo. Índigo sobre lima o celeste, o tono sobre tono (índigo sobre índigo profundo). Uno por pieza.
+- **Conectores:** líneas finas con puntos que conectan. Para separar o enlazar ideas, en una sola tinta.
+- **Ampersand y V grandes:** formas detrás de una foto recortada.
 
 ## 10. Iconografía
 
-- El kit tiene íconos de línea en índigo con detalles punteados (Canva, "Iconografía y stickers"). Se usan desde Canva cuando hagan falta, nunca emojis.
-- En web, el único ícono es la flecha diagonal (flecha-externa.svg) para botones que abren otro sitio.
+- Íconos de línea en índigo con detalles punteados. Nunca emojis.
+- En web, el único ícono es la flecha diagonal, para botones que abren otro sitio.
 - No usar los stickers de manos, megáfono ni "Hazte viral": no son sobrios y contradicen lo que vendemos.
 
 ---
